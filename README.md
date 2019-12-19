@@ -31,6 +31,7 @@ c) Esteja onde estiver
 Sublimatio
 a) Desapego dos proprios interesses
 b) Ação pela não ação
+c) Meu trabalho minhas regras
 
 Mortificatio
 a) Pagar as Dividas com desconto
