@@ -14,8 +14,8 @@ Ouve-se que o mapa não é o territorio mas a Alquimia é o mapa do real, pois f
 Calcinatio
 a) Rio da vida
 b) Resistência gera problemas
-c) Resistir as pessoas
-d) Resistir aos desafios
+c) POG - Programação Orientada a Gambiarra
+d) Entendendo para quem trabalha
 
 Solutio
 a) Fluir com o rio da vida
@@ -24,21 +24,25 @@ c) Acalmando tempestades
 d) Desenvolvendo para humanos
 
 Coagulatio
-a) Desejo de trabalhar
-b) Desejo de crescer
-c) Esteja onde estiver
+a) Amando o que faz
+b) Tudo é aprendizado mesmo que não queira fazer
+c) Entrando em Fluxo
 
 Sublimatio
-a) Desapego dos proprios interesses
-b) Ação pela não ação
-c) Meu trabalho minhas regras
+a) Meu trabalho minhas regras
+b) Os usuarios tem que fazer do jeito que quero
+c) Desenvolvendo para outros manter
 
 Mortificatio
-a) Pagar as Dividas com desconto
-b) Gerar Frutos
+a) Limpando o terreno
+b) Fazendo para outro manter
 
 Separatio
-a) Perceber a tensão dos opostos
+a) Eu só faço isso
+b) Isso é coisa de design ou programador
 
-Coniuction
-a) Transcedendo os opostos
+Coniunction
+a) Tornando-se indispensavel
+
+Androgeno
+a) Indenpendencia
