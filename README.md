@@ -24,6 +24,7 @@ Solutio
 * Lendo mentes
 * Acalmando tempestades
 * Desenvolvendo para humanos
+* Mergulhando no Inconsciente
 
 Coagulatio
 * Esteja no mundo real
