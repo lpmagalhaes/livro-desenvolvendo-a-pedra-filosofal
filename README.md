@@ -12,37 +12,50 @@ b) Mapa do territorio
 Ouve-se que o mapa não é o territorio mas a Alquimia é o mapa do real, pois foi feita em cima da Materia Prima, como foi dito "Também o reino dos céus é semelhante a um tesouro escondido num campo, que um homem achou e escondeu; e, pelo grande alegria dele, vai, vende tudo quanto tem, e compra aquele campo", a Pedra filosofal é esse tesouro que vale apena vender tudo para te-lo, mas vender o que os bens? Não, mas os paradigmas, tabus e preconceitos, notem que teve uma Grande Alegria não uma alegria normal, mas uma Alegria sobre humana isso é a Pedra Filosofal.
 
 Calcinatio
-a) Rio da vida
-b) Resistência gera problemas
-c) POG - Programação Orientada a Gambiarra
-d) Entendendo para quem trabalha
+* Rio da vida
+* Mundo da Competição
+* Resistência gera problemas
+* POG - Programação Orientada a Gambiarra
+* Entendendo para quem trabalha
+* Só estou certo
 
 Solutio
-a) Fluir com o rio da vida
-b) Lendo mentes
-c) Acalmando tempestades
-d) Desenvolvendo para humanos
+* Fluir com o rio da vida
+* Lendo mentes
+* Acalmando tempestades
+* Desenvolvendo para humanos
 
 Coagulatio
-a) Amando o que faz
-b) Tudo é aprendizado mesmo que não queira fazer
-c) Entrando em Fluxo
+* Esteja no mundo real
+* Amando o que faz
+* Tudo é aprendizado mesmo que não queira fazer
+* Entrando em Fluxo
 
 Sublimatio
-a) Meu trabalho minhas regras
-b) Os usuarios tem que fazer do jeito que quero
-c) Desenvolvendo para outros manter
+* Meu trabalho minhas regras
+* Os usuarios tem que fazer do jeito que quero
+* Desenvolvendo para outros manter
 
 Mortificatio
-a) Limpando o terreno
-b) Fazendo para outro manter
+* Limpando o terreno
+* Fazendo para outro manter
 
 Separatio
-a) Eu só faço isso
-b) Isso é coisa de design ou programador
+* Eu só faço isso
+* Isso é coisa de design ou programador
 
 Coniunction
-a) Tornando-se indispensavel
+* Tornando-se indispensavel
+* Criar x Manter
+* Mente x Corpo
+* Lado direito x Lado esquerdo
+* Exatas x Humanas
+* Sou desenvolvedor x Sou Full Stack
 
 Androgeno
-a) Indenpendencia
+* Indenpendencia
+* Em Fluxo
+
+Pedra Filosofal
+* Inconsciente Coletivo
+* Arquetipos
